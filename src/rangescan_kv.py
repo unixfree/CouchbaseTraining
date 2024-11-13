@@ -1,4 +1,4 @@
-rom datetime import timedelta
+from datetime import timedelta
 from couchbase.cluster import Cluster, ClusterOptions
 from couchbase.auth import PasswordAuthenticator
 from couchbase.bucket import Bucket
