@@ -75,13 +75,11 @@
   }
  },
  "sourceType": "gocbcore",
- "sourceName": "color-vector-sample",
- "sourceUUID": "4c0dd547d07c79f48d014cb979d17df7",
+ "sourceName": "travel-sample",
  "sourceParams": {},
  "planParams": {
-  "maxPartitionsPerPIndex": 64,
+  "maxPartitionsPerPIndex": 1024,
   "indexPartitions": 1,
   "numReplicas": 0
- },
- "uuid": "2d04dfbca0ffb141"
+ }
 }
